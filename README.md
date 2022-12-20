@@ -22,7 +22,7 @@ pkg install php
 
 cd bypass-waf
 
-php bypass-waf.php
+php bypass-waf.php example.com
 
 # Follow, Star me Thank you...
 
