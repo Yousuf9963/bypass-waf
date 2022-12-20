@@ -14,7 +14,7 @@ if(!empty($_GET['url'])){
 \033[0;36m       __     
 \033[0;36m    __(  )_   \033[1;97m\033[4;37mCloudFlare Bypass Hostname\e[0;0m \033[4;31mv2.2\e[0;0m
 \033[0;36m __(       )_   \e[0;0mAuthor : Yousuf Shafi'i Muhammad Junior Programmer.
-\033[0;36m(____________)  \e[0;0m[!] legal disclaimer: Usage of bypass-waf for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+\033[0;36m(____________)  \e[0;0m[!] legal disclaimer: Usage of bypass-waf for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program... I hope for you good future and i am willing that you will come high effort.
                 Sites  : Website muhammadabdirahman.wixsite.com/yousuf9963blog.
 \033[45m-------------------------------\e[0;0m[\e[0m\e[1;91m NOTES \e[0;0m]\033[45m---------------------------------------\e[0;0m
 This tools can help you to see the real \033[1;97m\033[4;37mIP\e[0;0m behind \033[1;97m\033[4;37mCloudFlare\e[0;0m protected websites
