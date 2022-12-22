@@ -1,5 +1,5 @@
 <?php
-// my code here!
+// my code bypass-waf is here!
 
 @ini_set('display_errors', 0); error_reporting(0); @ini_set('output_buffering', 'Off'); @ini_set('implicit_flush', 1); @ini_set('zlib.output_compression', 0); ob_implicit_flush(1); $cf = basename($_SERVER['SCRIPT_FILENAME']);
 
@@ -91,7 +91,7 @@ curl_close ($ch);
 ob_end_flush(); sleep(2); system("clear");
 
 $logo = "\033[0;92m  ______                                       
- /      \           /  |                                              
+ /                                                  
 /  |  ______  $$/  _____  ____    ______  /  |  
 $$ |  $$/  /      \ /  |/     \/    \  /      \ 
 $$ |      /$$$$$$  |$$ |$$$$$$ $$$$  |/$$$$$$  |
