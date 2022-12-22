@@ -22,6 +22,8 @@ pkg install php
 
 cd bypass-waf
 
+git clone https://github.com/Yousuf9963/bypass-waf.git
+
 php bypass-waf.php example.com
 
 # Follow, Star me Thank you...
