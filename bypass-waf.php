@@ -30,9 +30,9 @@ This tools can help you to see the real \033[1;97m\033[4;37mIP\e[0;0m behind \03
 $alert = "
 \033[0;36m       __     
 \033[0;36m    __(  )_   \033[1;97m\033[4;37mCloudFlare Bypass Hostname\e[0;0m \033[4;31mv2.2\e[0;0m
-\033[0;36m __(       )_   \e[0;0mAuthor : Yousuf Shafi'i Muhammad Junior Programmer.Reference by CrimeFlare.
+\033[0;36m __(       )_   \e[0;0mAuthor : Yousuf Shafi'i Muhammad Junior Programmer.
 \033[0;36m(____________)  \e[0;0mContact: https://github.com/Yousuf9963
-                Sites  : Reference by CrimeFlare
+                Sites  : muhammadabdirahman.wixsite.com/yousuf9963blog.
 \033[45m-------------------------------\e[0;0m[\e[0m\e[1;91m ALERT \e[0;0m]\033[45m---------------------------------------\e[0;0m
     \033[1;91m❝\033[1;36m Not all websites with cloudflare WAF can be bypassed with this tool \033[1;91m❞
 ";
