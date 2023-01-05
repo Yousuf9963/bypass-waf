@@ -28,4 +28,7 @@ php bypass-waf.php example.com
 
 # Follow, Star me Thank you...
 
+# Donation
+
+if you want to Donate Kindly click here Thank you.: https://www.buymeacoffee.com/junioprogrammer
 
