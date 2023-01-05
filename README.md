@@ -24,7 +24,7 @@ cd bypass-waf
 
 git clone https://github.com/Yousuf9963/bypass-waf.git
 
-php bypass-waf.php example.com
+php bypass-waf.php exa123mple.com
 
 # Follow, Star me Thank you...
 
