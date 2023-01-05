@@ -11,10 +11,10 @@ if(!empty($_GET['url'])){
     }else{
     system("clear");
          die("
-\033[0;36m       __     
-\033[0;36m    __(  )_   \033[1;97m\033[4;37mCloudFlare Bypass Hostname\e[0;0m \033[4;31mv2.2\e[0;0m
-\033[0;36m __(       )_   \e[0;0mAuthor : Yousuf Shafi'i Muhammad Junior Programmer.
-\033[0;36m(____________)  \e[0;0m[!] legal disclaimer: Usage of bypass-waf for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program... I hope for you good future and i am willing that you will come high effort.
+\033[0;36m          
+\033[0;36m Bypass-Waf            \033[1;97m\033[4;37mCloudFlare Bypass Hostname\e[0;0m \033[4;31mv2.2\e[0;0m
+\033[0;36m                 \e[0;0mAuthor : Yousuf Shafi'i Muhammad Junior Programmer.
+\033[0;36m(           \e[0;0m[!] legal disclaimer: Usage of bypass-waf for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program... I hope for you good future and i am willing that you will come high effort.
                 sites  : muhammadabdirahman.wixsite.com/yousuf9963blog.
                 Github : https://github.com/Yousuf9963/bypass-waf.
                           I hope You Like This Tool.            
@@ -28,10 +28,10 @@ This tools can help you to see the real \033[1;97m\033[4;37mIP\e[0;0m behind \03
         }
         
 $alert = "
-\033[0;36m       __     
-\033[0;36m    __(  )_   \033[1;97m\033[4;37mCloudFlare Bypass Hostname\e[0;0m \033[4;31mv2.2\e[0;0m
-\033[0;36m __(       )_   \e[0;0mAuthor : Yousuf Shafi'i Muhammad Junior Programmer.
-\033[0;36m(____________)  \e[0;0mContact: https://github.com/Yousuf9963
+\033[0;36m          
+\033[0;36m              \033[1;97m\033[4;37mCloudFlare Bypass Hostname\e[0;0m \033[4;31mv2.2\e[0;0m
+\033[0;36m                \e[0;0mAuthor : Yousuf Shafi'i Muhammad Junior Programmer.
+\033[0;36m(         \e[0;0mContact: https://github.com/Yousuf9963
                 Sites  : muhammadabdirahman.wixsite.com/yousuf9963blog.
 \033[45m-------------------------------\e[0;0m[\e[0m\e[1;91m ALERT \e[0;0m]\033[45m---------------------------------------\e[0;0m
     \033[1;91m❝\033[1;36m Not all websites with cloudflare WAF can be bypassed with this tool \033[1;91m❞
@@ -91,14 +91,13 @@ curl_close ($ch);
 ob_end_flush(); sleep(2); system("clear");
 
 $logo = "\033[0;92m  ______                                       
- /                                                  
-/  |  ______  $$/  _____  ____    ______  /  |  
-$$ |  $$/  /      \ /  |/     \/    \  /      \ 
-$$ |      /$$$$$$  |$$ |$$$$$$ $$$$  |/$$$$$$  |
-$$ |   __ $$ |  $$/ $$ |$$ | $$ | $$ |$$    $$ / 
-$$ \__/  |$$ |      $$ |$$ | $$ | $$ |$$$$$$$$/ 
-$$    $$/ $$ |      $$ |$$ | $$ | $$ |$$          
- $$$$$$/  $$/       $$/ $$/  $$/  $$/  $$$$$$$/ \e[0;0m \033[4;31mv2.2\e[0;0m
+____                               __        __     __
+| __ ) _   _ _ __   __ _ ___ ___    \ \      / /_ _ / _|
+|  _ \| | | | '_ \ / _` / __/ __|____\ \ /\ / / _` | |_
+| |_) | |_| | |_) | (_| \__ \__ \_____\ V  V / (_| |  _|
+|____/ \__, | .__/ \__,_|___/___/      \_/\_/ \__,_|_|
+       |___/|_|
+\e[0;0m \033[4;31mv2.2\e[0;0m
 ";
 
 if(!empty($exec)) {
